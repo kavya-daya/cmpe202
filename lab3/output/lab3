@@ -1,0 +1,5 @@
+Submit a link to your Repo for grading. 
+
+Astah File Should be:  "cmpe202/lab3/output/observer-pattern-uml.asta"
+Screenshots for Sequence Diagrams Messages should be in the folder: "cmpe202/lab3/output"
+Each "Screenshot File" should correlate to a message in your Sequence Diagram via the "Message Index Number" and "Message Name".   Example file name: "1.1 - Notify Observers.png"
