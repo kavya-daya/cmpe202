@@ -1,9 +1,9 @@
 
-public class Bacon extends Leaf
+public class Meat extends Leaf
 {
     private String[] options ;
 
-    public Bacon( String description )
+    public Meat( String description )
     {
         super(description) ;
     }
