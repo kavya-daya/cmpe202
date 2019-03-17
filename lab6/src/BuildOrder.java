@@ -8,14 +8,14 @@ public class BuildOrder
         BunToppings tomato = new BunToppings("TOMATO");
         BunToppings gOnion = new BunToppings("->| G ONION");
         BunToppings jalaG = new BunToppings("->| JALA Grilled");
-        Bacon bacon = new Bacon("{{{BACON}}}");
+        Meat bacon = new Meat("{{{BACON}}}");
         burger.addChild(lettuce);
         burger.addChild(tomato);
         burger.addChild(gOnion);
         burger.addChild(jalaG);
         burger.addChild(bacon);
 
-        Fries fries = new Fries("LTL CAJ", 1, 1);
+        Fries fries = new Fries("LTL CAJ");
         burger.addChild(fries);
         ConcreteStrategyCustomerReceipt customerReceipt = new ConcreteStrategyCustomerReceipt();
         customerReceipt.printDescription(burger);
