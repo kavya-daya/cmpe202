@@ -3,10 +3,8 @@ import java.text.DecimalFormat;
 public class Fries extends Leaf
 {
     private double price = 2.79;
-    private int quantity;
-    private int size;
-    
-    public Fries(String description, int size, int quantity)
+   
+    public Fries(String description)
     {
         super(description);
     }
