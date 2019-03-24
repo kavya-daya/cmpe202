@@ -9,7 +9,7 @@ Order <br />
     Ciabatta (Vegan) <br />
     Shoestring Fries <br />
  Build Your Own Burger 19.50 <br />
-    Hormone & Antibiotic Free Beef* + 1/3lb. + On A Bun <br />
+    Hormone & Antibiotic Free Beef + 1/3lb. + On A Bun <br />
     Smoked Gouda + Greek Feta <br />
     Fresh Mozzarella <br />
     Habanero Salsa <br />
