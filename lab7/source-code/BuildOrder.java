@@ -67,7 +67,7 @@ public class BuildOrder {
         CustomBurger customBurger2 = new CustomBurger( "Build Your Own Burger" ) ;
         // base price for 1/3 lb
         Burger b2 = new Burger( "Burger Options" ) ;
-        String[] bo2 = { "Hormone & Antibiotic Free Beef*", "1/3lb.", "On A Bun" } ;
+        String[] bo2 = { "Hormone & Antibiotic Free Beef", "1/3lb.", "On A Bun" } ;
         b2.setOptions( bo2 ) ;
         // 1 cheese free, extra cheese +1.00
         Cheese c2 = new Cheese( "Cheese Options" ) ;
