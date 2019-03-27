@@ -45,13 +45,13 @@ public class Burger extends Composite
     
         for (Component obj  : components)
           {
-           if(obj.getClass().getName().equalsIgnoreCase("Bacon"))
+           if(obj.getClass().getName().equalsIgnoreCase("Meat"))
                  obj.printDescription(order);
           }
 
          for (Component obj  : components)
           {
-               if(!obj.getClass().getName().equalsIgnoreCase("Bacon"))
+               if(!obj.getClass().getName().equalsIgnoreCase("Meat"))
                    obj.printDescription(order);
           }
             
