@@ -25,9 +25,30 @@ class Main
             System.out.flush() ;
             System.out.println( app.display() ) ;
             System.out.print( "Key (Digit or X or Delete) => " ) ;
-            String ch = c.readLine() ;
-            //String ch = sc.nextLine();
-            app.key( ch ) ;
+            
+            app.key( "1" ) ;
+            app.key( "2" ) ;
+            app.key( "3" ) ;
+            app.key( "4" ) ;
+            app.key( "5" ) ;
+            app.key( "6" ) ;
+            app.key( "7" ) ;
+            app.key( "8" ) ;
+            app.key( "1" ) ;
+            app.key( "2" ) ;
+            app.key( "3" ) ;
+            app.key( "4" ) ;
+            app.key( "5" ) ;
+            app.key( "6" ) ;
+            app.key( "7" ) ;
+            app.key( "8" ) ;
+             app.key( "1" ) ;
+            app.key( "2" ) ;
+            app.key( "1" ) ;
+            app.key( "0" ) ;
+            app.key( "3" ) ;
+            app.key( "4" ) ;
+             app.key( "8" ) ;
         }
     }
 }
