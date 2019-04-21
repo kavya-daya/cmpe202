@@ -17,9 +17,9 @@ public class BuildOrder
 
         Fries fries = new Fries("LTL CAJ");
         burger.addChild(fries);
-        ConcreteStrategyCustomerReceipt customerReceipt = new ConcreteStrategyCustomerReceipt();
+        CustomerReceipt customerReceipt = new ConcreteStrategyCustomerReceipt();
         customerReceipt.printDescription(burger);
-        ConcreteStrategyChefReceipt chefReceipt = new ConcreteStrategyChefReceipt();
+        InternalReceipt chefReceipt = new ConcreteStrategyChefReceipt();
         chefReceipt.printdes(burger);
         return burger;
 
