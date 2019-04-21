@@ -1,9 +1,9 @@
 import java.text.DecimalFormat;
 
-public class CustomerReceipt implements Strategy
+public class ConcreteStrategyCustomerReceipt implements Strategy
 {
     private double total;
-    public CustomerReceipt()
+    public ConcreteStrategyCustomerReceipt()
     {
      
     }
