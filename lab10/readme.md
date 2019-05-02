@@ -1,7 +1,5 @@
-### Lab 10 
 
-
-Comparison of Lab 1 and Lab 10 solutions
+###Comparison of Lab 1 and Lab 10 solutions
 
 The objective of lab 1 was to code a gumball machine that supported all configuration - ie, one quarter, two quarter and any coin.
 Here , for each of the model a separate class had to be implemented. Thus in future if we needed to add another model of 
@@ -17,16 +15,16 @@ Thus it becomes easier to both implement and debug different models using Aspect
 ### Screenshots
 
 
- Slot Model - 50 cents.
+ Slot Model - 50 cents
 ![alt text](https://github.com/kavyadayanand/cmpe202/blob/master/lab10/output/slot_50.png)
 
- Slot Model - 25 cents.
+ Slot Model - 25 cents
 ![alt text](https://github.com/kavyadayanand/cmpe202/blob/master/lab10/output/slot_25.png)
 
- Crank Model - 25 cents.
+ Crank Model - 25 cents
 ![alt text](https://github.com/kavyadayanand/cmpe202/blob/master/lab10/output/crank_25.png)
 
- Crank Model - 50 cents.
+ Crank Model - 50 cents
 ![alt text](https://github.com/kavyadayanand/cmpe202/blob/master/lab10/output/crank_50.png)
 
 
