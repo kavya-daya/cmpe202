@@ -1,8 +1,8 @@
-# Lab 10 
+### Lab 10 
 
-# Comparison of Lab 1 and Lab 10 solutions
+### Comparison of Lab 1 and Lab 10 solutions
 
-### Lab1
+
 
 The objective of lab 1 was to code a gumball machine that supported all configuration - ie, one quarter, two quarter and any coin.
 Here , for each of the model a separate class had to be implemented. Thus in future if we needed to add another model of 
@@ -14,7 +14,7 @@ it can be done so by choosing different options in the default.config file.
 Thus it becomes easier to both implement and debug different models using AspectJ
 
 
-# Screenshots
+### Screenshots
 
 
 
